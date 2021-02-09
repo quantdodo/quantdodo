@@ -2,7 +2,7 @@
 
 <img src="quantDodo.gif" alt="drawing" width="200"/>
 
-We are an open source organization building visualization toolkits to analyze financial data.
+We are an open source organization of ML engineers, data scientists and students based all over the world. We are currently building a visualization toolkits to analyze financial data.
 
 ![QuantitativeDodo's github stats](https://github-readme-stats.vercel.app/api?username=quantdodo&show_icons=true&hide_border=true) 
 
