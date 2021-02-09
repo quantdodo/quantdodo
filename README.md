@@ -1,6 +1,6 @@
 ### Hi there 👋 we are The Quantitative Dodo
 
-<img src=".quantDodo.gif" alt="drawing" width="200"/>
+<img src="quantDodo.gif" alt="drawing" width="200"/>
 
 <!--
 **quantdodo/quantdodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
