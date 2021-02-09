@@ -1,6 +1,10 @@
-### Hi there 👋 we are The Quantitative Dodo
+### Hi there, we are The Quantitative Dodo 🦤!
 
 <img src="quantDodo.gif" alt="drawing" width="200"/>
+
+We are an open source organization building visualization toolkits to analyze financial data.
+
+![QuantitativeDodo's github stats](https://github-readme-stats.vercel.app/api?username=quantdodo&show_icons=true&hide_border=true) 
 
 <!--
 **quantdodo/quantdodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
